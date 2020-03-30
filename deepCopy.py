@@ -8,3 +8,5 @@ def multi(a,b):
 
 
 print(add(1, 5))
+
+print(multi(4, 7))
